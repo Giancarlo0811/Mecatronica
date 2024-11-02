@@ -4,3 +4,6 @@ Prácticas de laboratorio y proyecto realizado en la asignatura Fundamentos de l
 Versión de MATLAB: R2021a
 
 Versión de Simulink: R2021a
+
+## Prácticas 
+- [LAB0](./LAB0/)
