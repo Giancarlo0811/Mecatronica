@@ -3,7 +3,7 @@
 En esta práctica del Laboratorio se pretende familiarizarse con el ambiente de
 Modelado y Simulación MATLAB y SIMULINK.
 
-Informe de la práctica: [Informe Lab0](https://Giancarlo0811.io/Mecatronica/blob/main/LAB0/Informe-Lab0.pdf)
+Informe de la práctica: [Informe Lab0](https://Giancarlo0811.github.io/Mecatronica/Informe-Lab0.pdf)
 
 ## Sistema con Integrador
 
