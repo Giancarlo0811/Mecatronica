@@ -3,8 +3,6 @@
 En esta práctica del Laboratorio se pretende familiarizarse con el ambiente de
 Modelado y Simulación MATLAB y SIMULINK.
 
-Informe: [Informe LAB0](./Informe-Lab0.pdf)
-
 ## Sistema con Integrador
 
 ![alt text](./Parte1-Bloques-preprogramados/sistema1.PNG)
