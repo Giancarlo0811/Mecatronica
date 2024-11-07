@@ -7,3 +7,4 @@ Versión de Simulink: R2021a
 
 ## Prácticas 
 - [LAB0](./LAB0/)
+- [LAB1](./LAB1/)
