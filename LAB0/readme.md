@@ -5,23 +5,21 @@ Modelado y Simulación MATLAB y SIMULINK.
 
 Informe de la práctica: [Informe Lab0](https://Giancarlo0811.io/Mecatronica/blob/main/LAB0/Informe-Lab0.pdf)
 
-## Prácticas realizadas
-
-### Sistema con Integrador
+## Sistema con Integrador
 
 ![alt text](./Parte1-Bloques-preprogramados/sistema1.PNG)
 
-### Sistema con Integrador de segundo orden
+## Sistema con Integrador de segundo orden
 
 ![alt text](./Parte1-Bloques-preprogramados/sistema2.PNG)
 
-### Ecuación de Van der Pol
+## Ecuación de Van der Pol
 
 ![alt text](./Parte2-Envio-de-variables/sistema_ecuacion_van_der_pol.PNG)
 
 ![alt text](./Parte2-Envio-de-variables/salida_vdp.PNG)
 
-### Péndulo Invertido
+## Péndulo Invertido
 
 ![alt text](../LAB0/Parte3-Pendulo-Invertido/sistema.PNG)
 
@@ -41,6 +39,6 @@ Informe de la práctica: [Informe Lab0](https://Giancarlo0811.io/Mecatronica/blo
 
 ![alt text](../LAB0/Parte3-Pendulo-Invertido/velocidad_carro.PNG)
 
-### Funciones de Transferencia
+## Funciones de Transferencia
 
 ![alt text](../LAB0/Parte4-Funciones-de-transferencia/sistema.PNG)
