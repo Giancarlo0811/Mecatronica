@@ -9,7 +9,7 @@ Robotics Toolbox: https://petercorke.com/toolboxes/robotics-toolbox/
 ## Robot PUMA 560
 ![alt text](./robot_puma560.PNG)
 
-## Robot PUMA 560 
+## Robot PUMA 560 3D
 ![alt text](./robot3D.PNG)
 
 ## Tabla de parámetros de D-H del PUMA 560 de Robotics Toolbox
