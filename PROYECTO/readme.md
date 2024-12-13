@@ -7,7 +7,10 @@ herramienta Simscape multibody link para que podamos construir el algoritmo de c
 simular el comportamiento real del robot tanto gráficamente como usando el explorador de
 mecánica de Matlab.
 
+Para más detalles del proyecto: [Informe Proyecto](./Informe-Proyecto.pdf)
+
 Para ver la demostración del movimiento, hacer click en la imagen de abajo.
+
 [<img src="./Imagenes/modelo_robot_simulink.PNG">](https://youtu.be/IvltNLjfZPE)
 
 ## Modelado del robot con SolidWorks
@@ -15,16 +18,16 @@ Para ver la demostración del movimiento, hacer click en la imagen de abajo.
 
 ## Modelado del robot con Matlab y Simulink
 
-### Modelo Mecánico del robot
+- ### Modelo Mecánico del robot
 ![alt text](./Imagenes/modelo_mecanico.PNG)
 
-### Sistema de control del robot
+- ### Sistema de control del robot
 ![alt text](./Imagenes/control_robot.PNG)
 
 ## Simulación del movimiento del brazo robótico
 
-### Trayectoria deseada
+- ### Trayectoria deseada
 ![alt text](./Imagenes/trayectoria_deseada.PNG)
 
-### Trayectoria obtenida
+- ### Trayectoria obtenida
 ![alt text](./Imagenes/trayectoria_obtenida.PNG)
